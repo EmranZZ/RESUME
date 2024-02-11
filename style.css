@@ -115,7 +115,7 @@ a {
 }
 .profile_name_firstName {
 	color: rgb(0, 0, 0);
-	font-weight: 200;
+	font-weight: 700;
 	font-size: clamp(2rem, 8vw, 4rem);
 	text-transform: uppercase;
 	display: block;
